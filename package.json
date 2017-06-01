@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "leftpad": "^0.0.1",
     "lodash.debounce": "^4.0.8",
     "ramda": "^0.24.0",
     "react": "^15.5.4",

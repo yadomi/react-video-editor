@@ -3605,6 +3605,10 @@ lcid@^1.0.0:
   dependencies:
     invert-kv "^1.0.0"
 
+leftpad@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/leftpad/-/leftpad-0.0.1.tgz#86b1a4de4face180ac545a83f1503523d8fed115"
+
 leven@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/leven/-/leven-2.1.0.tgz#c2e7a9f772094dee9d34202ae8acce4687875580"
